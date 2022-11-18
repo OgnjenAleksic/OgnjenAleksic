@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OgnjenAleksic
 - 👀 I’m interested in ...blockchain technology
-- 🌱 I’m currently learning ...cs50 
+- 🌱 I’m currently learning ...Solidity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...twitter account https://twitter.com/CRYPTOGNY
 
