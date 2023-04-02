@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OgnjenAleksic
 - 👀 I’m interested in blockchain technology 
-- 🌱 I’m currently learning developing smart contracts 
+- 🌱 I’m currently developing smart contracts 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter: https://twitter.com/0x6080 E-mail: cryptognjen@gmail.com
 
